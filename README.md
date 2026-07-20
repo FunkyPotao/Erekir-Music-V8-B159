@@ -11,7 +11,8 @@ A Mindustry music mod that adds, you guessed it, music. It plays exclusively dur
 
 
 ## Build instructions:
-#presequites
+
+#prerequesites
 - java 17 (i used adoptium)
 
 #linux
